@@ -40,7 +40,7 @@ const meta = validator.meta_item_preview({
 });
 ```
 
-### Cathing errors
+### Catching errors
 
 error refers to Error object with message describing which field is invalid
 
